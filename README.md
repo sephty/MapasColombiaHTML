@@ -25,7 +25,6 @@ El sitio está dividido en **cuatro páginas**:
 
 ## Tecnologías utilizadas  
 - **HTML5** para la estructura del sitio.  
-- **CSS3** para los estilos visuales.  
 
 ## Cómo usarlo  
 1. Abrir `index.html` en el navegador, o el live server "http://127.0.0.1:5500/index.html".  
